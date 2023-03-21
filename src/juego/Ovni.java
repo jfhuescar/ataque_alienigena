@@ -1,6 +1,6 @@
 package juego;
 
-public class Ovni {
+public class Ovni extends ElementoMovimiento{
 
 		int matricula;
 		int nivel;

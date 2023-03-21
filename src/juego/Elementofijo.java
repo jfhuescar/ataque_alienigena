@@ -1,5 +1,5 @@
 package juego;
 
-public class Elementofijo {
+public class Elementofijo extends Elemento{
 
 }

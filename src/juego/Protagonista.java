@@ -1,6 +1,6 @@
 package juego;
 
-public class Protagonista {
+public class Protagonista extends ElementoMovimiento{
 
 		String nombre;
 		int vidas;

@@ -1,6 +1,6 @@
 package juego;
 
-public class ElementoMovimiento {
+public class ElementoMovimiento extends Elemento {
 
 	int velocidad;
 	
